@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1585561212 source:d:\university\security and cryptography\project2\aes\main.cpp
+	"aes.h"
+	"string.h"
+	<stdio.h>
+
+1585561219 d:\university\security and cryptography\project2\aes\aes.h
+
