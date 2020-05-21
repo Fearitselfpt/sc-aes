@@ -1,2 +1,7 @@
-# sc-aes
-2nd Bachelor degree in Computer Science 3rd Year 2st Semester - Security &amp; Cryptography Project 2
+# Security & Cryptography - Project 2
+
+Implementation of the Advanced Encryption Standard in C, using a C development environment Code::Blocks
+
+# Created by Ricardo Belinha
+
+
